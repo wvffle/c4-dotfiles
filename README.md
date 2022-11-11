@@ -1,5 +1,5 @@
 # Odroid C4 Dotfiles
-This is a dotfiles repo for Odroid C4 on [AlARM](https://archdroid.org/en/images/odroidc4/) with all of the GUI stuff removed.
+This is a dotfiles repo for Odroid C4 on [ALARM](https://archdroid.org/en/images/odroidc4/) with all of the GUI stuff removed.
 
 ## Audio Server Configuration
 ### Dependencies
