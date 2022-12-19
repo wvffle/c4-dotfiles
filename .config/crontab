@@ -1,0 +1,1 @@
+@reboot 0 5 * * * systemctl --user restart pipewire pipewire-pulse wireplumber
